@@ -25,19 +25,47 @@
 
 I am a passionate software developer with a love for solving complex problems and building cool projects.
 
-## 🌟 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominic6809&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominic6809&show_icons=true&count_private=true&theme=radical)
+
+## 🔥 GitHub Contributions
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dominic6809&bg_color=1a1b27&color=f1f1f1&line=f18e33&point=f18e33&area=true&hide_border=true)
+
 
 ## 🛠 Languages and Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-...
 
-## 📊 Contribution Graph
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=dominic6809&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dominic6809&layout=compact&theme=radical)
 
-## 🌱 What I'm Working On
-- [Current Project](https://github.com/dominic6809/currentproject): Brief description of the project
+### Top Repositories:
+- [Project 1](https://github.com/dominic6809/Project1)  
+  ![Repo Stars](https://img.shields.io/github/stars/dominic6809/Project1?style=social)
+  
+- [Project 2](https://github.com/dominic6809/Project2)  
+  ![Repo Stars](https://img.shields.io/github/stars/dominic6809/Project2?style=social)
+
+### 🚀 Languages by Repo
+
+- **JavaScript**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Python**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **TypeScript**: ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- **CSS**: ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- **Ruby**: ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
+- **Rust**: ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+- **PHP**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
+### 🚀 Frameworks & Technologies
+
+- **Django**: ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+- **React**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- **Next.js**: ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+- **Node.js**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **Laravel**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+
+## 🌟 Other Stats
+
+[![Contributions](https://github-contribution-stats.vercel.app/api/?username=dominic6809)](https://github.com/dominic6809)
 
 
 <h3 align="left">Connect with me:</h3>

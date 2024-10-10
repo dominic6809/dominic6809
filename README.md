@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" alt="profile Image" width="500"/>
+  <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="profile Image" width="500"/>
 </p>
 
 - 🌱 I’m currently working on **AirBnB clone - MySQL, Web server**

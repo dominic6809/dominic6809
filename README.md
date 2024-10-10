@@ -10,13 +10,34 @@
   <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="profile-Image" width="500"/>
 </p>
 
-- 🌱 I’m currently working on **AirBnB clone - MySQL, Web server**
+- 🌱 I’m currently working on **ES6 Concepts, UI, Backend projects**
 
-- 🌱 I’m currently learning **Flask, SQL, Django, and SQLAlchemy**
+- 🌱 I’m currently learning **Backend development**
 
 - 👯 I’m looking to collaborate on **web applications, MySQL(Databases), APIs**
 
 - 🤝 I’m looking for help with **JavaScript projects**
+  
+- 💬 Ask me about **Web development, Front-end, and Software Engineering Foundations**
+
+- 📫 How to reach me: muuomusyoki2278@gmail.com
+
+
+I am a passionate software developer with a love for solving complex problems and building cool projects.
+
+## 🌟 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominic6809&show_icons=true&theme=radical)
+
+## 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+...
+
+## 📊 Contribution Graph
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=dominic6809&theme=react-dark)
+
+## 🌱 What I'm Working On
+- [Current Project](https://github.com/dominic6809/currentproject): Brief description of the project
 
 
 <h3 align="left">Connect with me:</h3>
@@ -39,3 +60,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
+
+## 💬 Let's Connect
+- LinkedIn: [Dominic Musyoki](https://www.linkedin.com/in/yourusername/)
+- Email: [muuomusyoki018@gmail.com](mailto:muuomusyoki018@gmail.com)

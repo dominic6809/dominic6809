@@ -10,15 +10,13 @@
   <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="profile-Image" width="500"/>
 </p>
 
-- 🌱 I’m currently working on **ES6 Concepts, UI, Backend projects**
+- 🌱 I’m currently working on **Full stack projects**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Devops, Cloud computing, and Data Engineering**
 
 - 👯 I’m looking to collaborate on **web applications, MySQL(Databases), APIs**
-
-- 🤝 I’m looking for help with **JavaScript projects**
   
-- 💬 Ask me about **Web development, Front-end, and Software Engineering Foundations**
+- 💬 Ask me about **Full stack web development, Devops Engineering and Software Engineering Foundations**
 
 - 📫 How to reach me: muuomusyoki2278@gmail.com
 

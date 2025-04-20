@@ -18,7 +18,7 @@
   
 - 💬 Ask me about **Full stack web development, Devops Engineering and Software Engineering Foundations**
 
-- 📫 How to reach me: muuomusyoki2278@gmail.com
+- 📫 How to reach me: muuomusyoki018@gmail.com
 
 
 I am a passionate software developer with a love for solving complex problems and building cool projects.

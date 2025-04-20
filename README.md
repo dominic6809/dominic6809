@@ -50,7 +50,7 @@ I am a passionate software developer with a love for solving complex problems an
 - **TypeScript**: ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 - **CSS**: ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 - **Ruby**: ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
-- **Rust**: ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+- **Laravel**: ![Laravel](https://img.shields.io/badge/-Laravel-777BB4?logo=laravel&logoColor=white)
 - **PHP**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ### 🚀 Frameworks & Technologies
